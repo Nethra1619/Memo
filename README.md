@@ -12,7 +12,7 @@ Memory Lane is a professional website designed to capture and cherish your most 
   - A photo grid to showcase memorable images.  
 
 ## Live Demo  
-Access the live version of Memory Lane: [Memory Lane](https://Nethra1619.github.io/memo/)  
+Access the live version of Memory Lane: [Memory Lane](https://Nethra1619.github.io/Memo/)  
 
 ## Technologies Used  
 - **HTML** for structure.  
@@ -22,4 +22,4 @@ Access the live version of Memory Lane: [Memory Lane](https://Nethra1619.github.
 ## Setup Instructions  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Nethra1619/memo.git
+   git clone https://github.com/Nethra1619/Memo.git
