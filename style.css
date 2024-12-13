@@ -1,3 +1,140 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Body Styling */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #FFC0CB, #FFD700); /* Pink & Yellow Gradient */
+}
+
+/* Login Container */
+.login-container {
+  background: #fff;
+  padding: 30px 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+}
+
+/* Logo */
+.logo h1 {
+  font-size: 28px;
+  color: #FF69B4; /* Hot Pink */
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Login Form */
+.login-form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.login-form button {
+  width: 100%;
+  padding: 12px;
+  background: #FFD700; /* Yellow */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.login-form button:hover {
+  background: #FFC107; /* Deeper Yellow */
+}
+
+/* Signup Link */
+.signup-link {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.signup-link a {
+  color: #FF69B4; /* Hot Pink */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.signup-link a:hover {
+  text-decoration: underline;
+}
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background: #FF69B4; /* Hot Pink */
+  color: white;
+}
+
+.header .logo {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.header .search-bar {
+  width: 50%;
+  padding: 8px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+}
+
+.header .nav-icons img {
+  width: 24px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+/* Feed */
+.feed {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background: #FFF8DC; /* Light Yellow */
+}
+
+/* Post */
+.post {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.post img {
+  width: 100%;
+  display: block;
+}
+
+.post-caption {
+  padding: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+.post-caption strong {
+  color: #FF69B4; /* Hot Pink */
+  }
 /* Profile Info */
 .profile-info {
   text-align: center;
