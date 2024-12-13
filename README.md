@@ -29,7 +29,7 @@ This project is dedicated to my best friend, showcasing our favorite memories to
 ## **Live Demo**  
 
 Check out the live website here:  
-[Memory Lane - Live Demo](https://Nethra1619.github.io/memo/)  
+[Memory Lane - Live Demo](https://Nethra1619.github.io/Memo/)  
 
 ---
 
